@@ -1,0 +1,23 @@
+{
+  "name": "ask-which-host",
+  "version": "0.0.0dev",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinmerckx/ask-which-host.git"
+  },
+  "author": "Kevin Merckx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinmerckx/ask-which-host/issues"
+  },
+  "homepage": "https://github.com/kevinmerckx/ask-which-host#readme",
+  "devDependencies": {
+    "enquirer": "^2.1.1",
+    "os": "^0.1.1"
+  }
+}
