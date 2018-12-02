@@ -16,7 +16,8 @@
     "url": "https://github.com/kevinmerckx/ask-which-host/issues"
   },
   "homepage": "https://github.com/kevinmerckx/ask-which-host#readme",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "enquirer": "^2.1.1",
     "os": "^0.1.1"
   }
